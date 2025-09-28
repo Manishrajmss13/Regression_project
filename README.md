@@ -59,10 +59,11 @@ Lasso Regression (for its feature selection capabilities)
 
 ## Results & Key Findings
 
-Model	Test MSE	Test R² Score
-Linear Regression	0.67	~0.985
-Ridge Regression	0.68	~0.985
-Lasso Regression	2.25	~0.949
+| Model | Test MSE | Test R² Score |
+| :--- | :--- | :--- |
+| **Linear Regression** | 0.67 | ~0.985 |
+| **Ridge Regression** | 0.68 | ~0.985 |
+| **Lasso Regression** | 2.25 | ~0.949 |
 
 ## Conclusion:
 
