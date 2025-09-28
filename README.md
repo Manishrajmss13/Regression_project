@@ -1,4 +1,6 @@
 # Algerian Forest Fire Prediction using Regression
+*A complete data science project in Python to predict the Fire Weather Index (FWI) using Scikit-learn and Statsmodels, with a focus on rigorous data cleaning and feature selection.*
+
 
 ## Project Goal
 
